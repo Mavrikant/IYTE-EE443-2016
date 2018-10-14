@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1477766393 source:c:\ee443\lab7\lcdmodule.c
+	<avr/io.h>
+	<util/delay.h>
+	"LCDmodule.h"
+
+1477766397 c:\ee443\lab7\lcdmodule.h
+
+1477766399 source:c:\ee443\lab7\printbyte.c
+
+1482232576 source:c:\ee443\lab7\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<stdio.h>
+	"LCDmodule.h"
+	<avr/interrupt.h>
+
